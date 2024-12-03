@@ -6,6 +6,6 @@ I can't share the sources for the animations but all the files are unbinarized s
 
 Please credit "Moonie" and "GIM".
 
-PLEASE DISTRIBUTE THIS MOD UNDER THE APL-ND LICENSE
+PLEASE DISTRIBUTE THIS MOD UNDER THE APL-SA LICENSE
 
-<img src="https://data.bistudio.com/images/license/APL-ND.png">
+<img src="https://www.bohemia.net/assets/img/licenses/APL-SA.png">
